@@ -31,7 +31,7 @@ Este projeto é uma aplicação web simples para gerenciamento de uma pizzaria. 
 
    >  Não é necessário instalar dependências ou configurar servidores. O projeto é totalmente baseado em arquivos estáticos.
 
-## 🛠 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 - **HTML5** – Estruturação das páginas.
 - **CSS3** – Estilização e layout responsivo.
